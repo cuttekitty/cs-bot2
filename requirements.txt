@@ -1,2 +1,2 @@
 pytelegrambotapi
-puthon-a2s
+a2s
