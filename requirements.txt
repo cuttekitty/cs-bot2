@@ -1,0 +1,3 @@
+pyTelegramBotPI
+requests
+python-a2s
